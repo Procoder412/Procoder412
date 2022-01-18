@@ -1,0 +1,21 @@
+
+NotesAllowed= 10
+Notes= 0
+filename= input(
+'please enter a filename"')
+while(notes<NotesAllowed 
+	Notes= open(filename,w)
+		if input!= True:
+		for note in range(10):
+			input("please enter your note ")
+		if FileName= True:
+		input("would you like to read,overwrite, or append the file?")
+			if input= read:
+			open(filename,"r")
+			if input= overwrite:
+			open(filename,w")
+			filename.close()
+
+			Notes+=1
+			if input= append:
+			open(filename,"a")
