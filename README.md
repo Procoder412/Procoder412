@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Procoder412
+- 👋 Hi, I’m @troy Chappell
 - 👀 I’m interested in ...Creating new ways to poblem solve utilizing technical skills and creativity
 - 🌱 I’m currently learning ...HTML
 - 💞️ I’m looking to collaborate on ... anything i can learn a neew skill from to progressmy coding prowess
