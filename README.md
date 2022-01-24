@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @troy Chappell
 - 👀 I’m interested in ...Creating new ways to poblem solve utilizing technical skills and creativity,providing innovation
-- 🌱 I’m currently learning ...HTML
+- 🌱 I’m currently learning ...HTML and Python3
 - 💞️ I’m looking to collaborate on ... anything i can learn a new skill from to progressmy coding prowess
 - 📫 How to reach me ...troychappelljr@gmail.com
 
