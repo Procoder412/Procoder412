@@ -1,0 +1,10 @@
+strikes = 0
+targetword = str("kandace")
+guessLetter = input("please guess a letter ")
+for letter in str(targetword):
+    if guessLetter == letter:
+
+        Elif
+
+    strikes += 1/len(targetword)
+print(round(strikes))
