@@ -1,0 +1,20 @@
+cheese = 1
+pastashells = 1
+eggs = 2
+order = input("please enter your order")
+quantity = input("how many orders would you like to place: ")
+
+
+if order == str("mac and cheese"):
+    cheese -= 1 * int( quantity)
+print(str("you have this many pastashells left: "))
+pastashells -= 1* int(quantity)
+
+eggs -= 1* int(quantity)
+
+print("amont of cheese left: ")
+print(cheese)
+str("pasta shells left:")
+print(pastashells)
+print(str(" amount of eggs left: "))
+print(eggs)
