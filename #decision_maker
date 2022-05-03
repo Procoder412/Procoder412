@@ -1,0 +1,9 @@
+#decision_maker
+goluckyanime = [str("Naruto"), str("hunterXhunter"), str("onepiece")]
+deepthought =[str("deathnote"), str("evangelion"), str("parasyte"),]
+
+
+if input("please enter your mood ") == str("sad"):
+    print(goluckyanime.pop())
+else:
+        print(deepthought.pop())
